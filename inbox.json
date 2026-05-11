@@ -1,0 +1,9 @@
+[
+  {
+    "id": "MSG_1",
+    "title": "Atualização 1.0",
+    "body": "Novo mapa disponível!",
+    "type": "update",
+    "created_at": 1715300000
+  }
+]
