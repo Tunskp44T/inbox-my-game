@@ -1,8 +1,17 @@
 [
   {
     "id": "MSG_1",
-    "title": "Atualização 1.0",
-    "body": "Novo mapa disponível!",
+    "title": "Boas Vinda!",
+    "body": "Seja benvindo ao Breaking4TH! :D",
+    "type": "update",
+    "created_at": 1715300000
+  }
+]
+[
+  {
+    "id": "MSG_2",
+    "title": "Boas Vinda!",
+    "body": "Seja benvindo ao Breaking4TH! :D",
     "type": "update",
     "created_at": 1715300000
   }
