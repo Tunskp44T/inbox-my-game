@@ -8,7 +8,15 @@
   },
 
   {
-    "id": "MSG_1",
+    "id": "MSG_2",
+    "title": "Ilha de Menepatem",
+    "body": "Boas Vindas ao jogo bem jogável",
+    "type": "update",
+    "created_at": 1715300000
+  },
+
+  {
+    "id": "MSG_3",
     "title": "Boas Vinda!",
     "body": "Seja benvindo ao Breaking4TH! :D",
     "type": "update",
